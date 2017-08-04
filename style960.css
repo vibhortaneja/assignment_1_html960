@@ -74,7 +74,7 @@ header {
 
 
 .container_12 .grid_4{
-	height: 533px;
+	height: 300px;
 	background-color: black;
 }
 .row4 .grid_8, .row4 .grid_4{
@@ -120,11 +120,25 @@ header {
 	font-style: italic;
 }
 
-.container_12 .grid_6{
-	height: 533px;
+
+.row6 .grid_6{
+	height: 333px;
 	background-color: black;
 	margin-bottom: 2%;
 }
+
+.row6 .alpha{
+	background-image: url("../html960/111.jpeg");
+	background-size: cover;
+	margin-right: 20px;	
+}
+.row6 .omega{
+	background-image: url("../html960/11.png");
+	background-size: cover;
+		
+}
+
+
 
 .footer { 
 	float: center; 
@@ -150,14 +164,14 @@ header {
 
 .footer1 { 
 	float: center; 
-	/*margin-top:540px;*/ 
-	height:30px; 
+	margin-top:370px; 
+	height:50px; 
 	background-color: grey;
  }
 .footer1 li {
 	float:left; 
 	list-style:none; 
-	margin-left:5px;
+	margin-left:40px;
 }
 .footer1 span { 
 	float:left; 
@@ -166,6 +180,6 @@ header {
 
 .foot1
 {
-	margin-left: 50%;
+	margin-left: 10%;
 
 }

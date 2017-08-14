@@ -91,13 +91,13 @@ header img{
 }
 
 .container_12 .alpha {
-    background-image: url("../images/9.jpeg");
+    background-image: url("../images/weather.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .container_12 .middle {
-    background-image: url("../images/8.png");
+    background-image: url("../images/table.png");
     background-size: cover;
     background-repeat: no-repeat;
     margin-left: 18px;
@@ -105,13 +105,13 @@ header img{
 }
 
 .container_12 .omega {
-    background-image: url("../images/7.png");
+    background-image: url("../images/heatmap.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 .row4 .alpha {
-    background-image: url("../images/10.png");
+    background-image: url("../images/london.png");
     background-size: cover;
     margin-right: 20px;
 }
@@ -136,13 +136,13 @@ header img{
 }
 
 .row6 .alpha {
-    background-image: url("../images/111.jpeg");
+    background-image: url("../images/agra.jpeg");
     background-size: cover;
     margin-right: 20px;
 }
 
 .row6 .omega {
-    background-image: url("../images/11.png");
+    background-image: url("../images/mumbai.png");
     background-size: cover;
 }
 

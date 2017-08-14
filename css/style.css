@@ -1,6 +1,12 @@
 header {
     height: 93px;
-    /*background-color: #d13328;*/
+    
+}
+
+header img{
+    width: 500px;
+    height: 92px;
+
 }
 
 .row0 ul {
@@ -30,7 +36,7 @@ header {
 
 .heroimage {
     height: 630px;
-    background: url("../images/1.jpg");
+    background: url("../images/heroimage1.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -42,7 +48,7 @@ header {
 
 .heroimage1 {
     height: 630px;
-    background: url("../images/2.jpg");
+    background: url("../images/heroimage2.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
